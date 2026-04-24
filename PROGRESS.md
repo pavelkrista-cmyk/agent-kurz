@@ -1,5 +1,5 @@
 # Stav projektu / Project Progress
-> Poslední aktualizace / Last updated: 2026-04-24 (A07 done — Advanced modul kompletní)
+> Poslední aktualizace / Last updated: 2026-04-24 (A09 done — email + RSS feed)
 
 ---
 
