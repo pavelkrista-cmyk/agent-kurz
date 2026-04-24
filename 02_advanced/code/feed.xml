@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Mediální monitoring — AI &amp; Tech</title>
+    <link>https://pavelkrista-cmyk.github.io/agent-kurz/02_advanced/code/feed.xml</link>
+    <description>Denní přehled technologických zpráv generovaný AI agentem</description>
+    <language>cs</language>
+    <lastBuildDate>Fri, 24 Apr 2026 15:21:04 +0000</lastBuildDate>
+    <generator>Media Monitoring Agent v6</generator>
+    <item>
+      <title>In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs</title>
+      <link>https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/</link>
+      <description>[TechCrunch | Julie Bort | Relevance: 9/10]
+
+Meta získala masivní objem domácích CPU procesorů od Amazonu (nikoliv GPU) určených pro AI agentické workloady. Jde o signál, že začíná nový druh závodu v oblasti AI čipů, kde se podstatně mění strategie od tradičních grafických procesorů.</description>
+      <author>Julie Bort</author>
+      <pubDate>Fri, 24 Apr 2026 15:21:04 +0000</pubDate>
+      <category>Umělá inteligence (AI)</category>
+    </item>
+    <item>
+      <title>OpenAI releases GPT-5.5, bringing company one step closer to an AI 'super app'</title>
+      <link>https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/</link>
+      <description>[TechCrunch | Lucas Ropek | Relevance: 9/10]
+
+OpenAI představila nový model GPT-5.5 s rozšířenými schopnostmi v širokém spektru kategorií. Výrazný progres směrem k vytvoření AI superapp, která by integrovala více funkcionalit.</description>
+      <author>Lucas Ropek</author>
+      <pubDate>Fri, 24 Apr 2026 15:21:04 +0000</pubDate>
+      <category>Umělá inteligence (AI)</category>
+    </item>
+    <item>
+      <title>Takto vypadá nová generace AI grafik Nvidia. Nepůjde chladit vzduchem, vyčerpá ještě více pamětí a opět zdraží</title>
+      <link>https://www.lupa.cz/aktuality/takto-vypada-nova-generace-ai-grafik-nvidia-nepujde-chladit-vzduchem-vycerpa-jeste-vice-pameti-a-opet-zdrazi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss</link>
+      <description>[Lupa.cz | Jan Sedlák | Relevance: 9/10]
+
+Nvidia chystá druhou generaci AI čipů Rubin, ARM procesory Vera a superčip Vera Rubin na druhou polovinu roku. Nové karty budou vyžadovat kapalinové chlazení, větší paměť a povedou k dalšímu zdražení.</description>
+      <author>Jan Sedlák</author>
+      <pubDate>Fri, 24 Apr 2026 15:21:04 +0000</pubDate>
+      <category>Umělá inteligence (AI)</category>
+    </item>
+    <item>
+      <title>Pěchouček na ČVUT otevřel Národní centrum umělé inteligence, má AI zabydlet ve firmách i veřejné správě</title>
+      <link>https://www.lupa.cz/aktuality/pechoucek-na-cvut-otevrel-narodni-centrum-umele-inteligence-ma-ai-zabydlet-ve-firmach-i-verejne-sprave/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss</link>
+      <description>[Lupa.cz | Iva Brejlová | Relevance: 8/10]
+
+Na ČVUT byla slavnostně zahájena Národní centrum umělé inteligence (NCUI), která propojuje univerzitní výzkum s praktickými aplikacemi AI v privátním a veřejném sektoru. Cílem je převést inovace přímo do praxe.</description>
+      <author>Iva Brejlová</author>
+      <pubDate>Fri, 24 Apr 2026 15:21:04 +0000</pubDate>
+      <category>Umělá inteligence (AI)</category>
+    </item>
+    <item>
+      <title>Bret Taylor's Sierra buys YC-backed AI startup Fragment</title>
+      <link>https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/</link>
+      <description>[TechCrunch | Dominic-Madori Davis | Relevance: 8/10]
+
+Sierra, startup zaměřený na AI agenty pro zákaznický servis, převzal francouzský Y Combinator-backed startup Fragment. Akvizice posiluje pozici Sierry v oblasti AI customer service řešení.</description>
+      <author>Dominic-Madori Davis</author>
+      <pubDate>Fri, 24 Apr 2026 15:21:04 +0000</pubDate>
+      <category>Umělá inteligence (AI)</category>
+    </item>
+    <item>
+      <title>Era raises $11M to build a software platform for AI gadgets</title>
+      <link>https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/</link>
+      <description>[TechCrunch | Ivan Mehta | Relevance: 7/10]
+
+Era získala 11 milionů dolarů na vývoj softwarové platformy pro AI hardware v různých formátech včetně brýlí, prstenců a přívěsků. Společnost vidí budoucnost v rozmanitých AI zařízeních.</description>
+      <author>Ivan Mehta</author>
+      <pubDate>Fri, 24 Apr 2026 15:21:04 +0000</pubDate>
+      <category>Umělá inteligence (AI)</category>
+    </item>
+    <item>
+      <title>Letošek bude zlomový, umělá inteligence otočí vývoj softwaru kompletně naruby</title>
+      <link>https://www.lupa.cz/clanky/letosek-bude-zlomovy-umela-inteligence-otoci-vyvoj-softwaru-kompletne-naruby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss</link>
+      <description>[Lupa.cz | Jakub Hanák | Relevance: 7/10]
+
+Rok 2026 znamená zlomový bod v integraci AI do vývoje softwaru. Zatímco loňský rok byl věnován experimentům, letošek přináší plnou a ostrou implementaci AI nástrojů v součastech vývojářských teamů.</description>
+      <author>Jakub Hanák</author>
+      <pubDate>Fri, 24 Apr 2026 15:21:04 +0000</pubDate>
+      <category>Umělá inteligence (AI)</category>
+    </item>
+    <item>
+      <title>Meet Noscroll, an AI bot that does your doomscrolling for you</title>
+      <link>https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/</link>
+      <description>[TechCrunch | Sarah Perez | Relevance: 5/10]
+
+Noscroll je nový AI bot zaměřený na řešení problému doomscrollingu – automaticky čte internet za uživatele a pomáhá снизить negativní dopad sociálních médií.</description>
+      <author>Sarah Perez</author>
+      <pubDate>Fri, 24 Apr 2026 15:21:04 +0000</pubDate>
+      <category>Umělá inteligence (AI)</category>
+    </item>
+  </channel>
+</rss>
