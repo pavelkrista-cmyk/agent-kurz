@@ -1,5 +1,5 @@
 # Stav projektu / Project Progress
-> Poslední aktualizace / Last updated: 2026-04-24 (A09 done — email + RSS feed)
+> Poslední aktualizace / Last updated: 2026-04-24 (P01 done — pymupdf, CV + LinkedIn čtou OK)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ## Modul 3 — HOME-PROFI: Job Search Assistant
 
-- [ ] P01 MCP setup — nastavení MCP serveru pro file access
+- [x] P01 MCP setup — nastavení MCP serveru pro file access
 - [ ] P02 PDF parsing — extrakce textu z CV a LinkedIn exportu
 - [ ] P03 Job search tool — vyhledávání inzerátů
 - [ ] P04 Matching engine — porovnání požadavků s profilem
